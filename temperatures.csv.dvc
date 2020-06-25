@@ -1,0 +1,7 @@
+md5: 5372640ba27dd3c6a3b0d5e60892bb8c
+outs:
+- md5: ff9e1782f163fd2e51ebb568f57ea64b
+  path: temperatures.csv
+  cache: true
+  metric: false
+  persist: false
