@@ -5,8 +5,8 @@ The purpose of this project is to do some experimenting with `numpy`, particular
 From your terminal / command line, navigate to a directory where you'd like to store your work.  Then, clone the assignment's github repository and `cd` into the directory to begin working.
 
 ```
-git clone https://github.com/scottfrees/cmps530-wp5.git
-cd cmps530-wp5
+git clone https://github.com/scottfrees/cmps530-wp4.git
+cd cmps530-wp4
 ```
 
 ## Getting the data
